@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AKSBhardwaj
-- 👀 I’m interested in Full Stack Python Web Development
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Django Project
 - 📫 How to reach me uccaksharma@gmail.com
