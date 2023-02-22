@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AKSBhardwaj
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Django Project
+- 👀 I’m interested in Full Stack Web Development.
+- 💞️ I’m looking to collaborate on Angular and JavaScript projects
 - 📫 How to reach me uccaksharma@gmail.com
 
 <!---
